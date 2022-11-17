@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Select /> should render properly 1`] = `
+<div
+  class="sc-bdvvaa fKRyFQ"
+>
+  <select
+    class="sc-gsDJrp doAmLO"
+    data-testid="select"
+  >
+    <option
+      value=""
+    >
+      -
+    </option>
+    <option
+      value="1"
+    >
+      1
+    </option>
+    <option
+      value="2"
+    >
+      2
+    </option>
+  </select>
+</div>
+`;

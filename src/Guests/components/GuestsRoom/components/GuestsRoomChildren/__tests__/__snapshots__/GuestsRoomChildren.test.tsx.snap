@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GuestsRoomChildren /> should render properly 1`] = `
+<div
+  class="sc-gKckTs dPQnl"
+>
+  <span
+    class="sc-iCfLBT JjZsB"
+  >
+    Children
+  </span>
+  <div
+    class="sc-furvIG cWguzl"
+  >
+    <button
+      class="sc-bdvvaa fzcnyp"
+      data-testid="remove-child-0-button"
+      disabled=""
+    >
+      <svg>
+        minus.svg
+      </svg>
+    </button>
+    <span
+      class="sc-iCfLBT JjZsB"
+      data-testid="children-counter"
+    >
+      0
+    </span>
+    <button
+      class="sc-bdvvaa fzcnyp"
+      data-testid="add-child-0-button"
+    >
+      <svg>
+        plus.svg
+      </svg>
+    </button>
+  </div>
+</div>
+`;

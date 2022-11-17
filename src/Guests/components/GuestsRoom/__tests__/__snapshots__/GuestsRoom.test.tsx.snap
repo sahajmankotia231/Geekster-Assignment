@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GuestsRoom /> should render properly 1`] = `
+<div
+  class="sc-gsDJrp dwyZHA"
+  data-testid="guests-room"
+>
+  <div
+    class="sc-dkPtyc iQYZgR"
+  >
+    <h4
+      class="sc-hKwCoD cLeDZh"
+    >
+      Room 
+      1
+    </h4>
+  </div>
+  <div
+    class="sc-eCImvq guCNbL"
+  >
+    <span
+      class="sc-jRQAMF bgpgfc"
+    >
+      Adults
+    </span>
+    <div
+      class="sc-gKckTs jduWvm"
+    >
+      <button
+        class="sc-bdvvaa fzcnyp"
+        data-testid="remove-adult-0-button"
+        disabled=""
+      >
+        <svg>
+          minus.svg
+        </svg>
+      </button>
+      <span
+        class="sc-jRQAMF bgpgfc"
+        data-testid="adults-counter"
+      >
+        1
+      </span>
+      <button
+        class="sc-bdvvaa fzcnyp"
+        data-testid="add-adult-0-button"
+      >
+        <svg>
+          plus.svg
+        </svg>
+      </button>
+    </div>
+  </div>
+  <div
+    class="sc-eCImvq guCNbL"
+  >
+    <span
+      class="sc-jRQAMF bgpgfc"
+    >
+      Children
+    </span>
+    <div
+      class="sc-gKckTs jduWvm"
+    >
+      <button
+        class="sc-bdvvaa fzcnyp"
+        data-testid="remove-child-0-button"
+        disabled=""
+      >
+        <svg>
+          minus.svg
+        </svg>
+      </button>
+      <span
+        class="sc-jRQAMF bgpgfc"
+        data-testid="children-counter"
+      >
+        0
+      </span>
+      <button
+        class="sc-bdvvaa fzcnyp"
+        data-testid="add-child-0-button"
+      >
+        <svg>
+          plus.svg
+        </svg>
+      </button>
+    </div>
+  </div>
+  <div
+    class="sc-iCfLBT bZPXmC"
+  />
+</div>
+`;
